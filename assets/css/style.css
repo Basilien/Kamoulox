@@ -1,0 +1,111 @@
+@import url('reset.css');
+
+body{
+  background-color: #F8EFBA;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+nav {
+  text-align: center;
+}
+
+nav.menu li.boutonmenu {
+  display: inline-block;
+  margin: 10px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+nav.menu li.boutonmenu a{
+  color: #ffffff;
+  background-color: #f6b93b;
+  font-family: monospace;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 50px;
+}
+
+
+h1 {
+  font-family: monospace;
+  font-size: 100px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #f8a5c2;
+  padding: 50px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+h2{
+  color: #f6b93b;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+.button {
+  color: #ffffff;
+  background-color: #f6b93b;
+  border:none;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.answer {
+  color: #f8a5c2;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  border: none;
+}
+
+.question {
+  color: #ffffff;
+  background-color: #f8a5c2;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  border: none;
+}
+
+.presentation {
+  color: #f8a5c2;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  border: none;
+}
+
+.date {
+  color: #ffffff;
+  background-color: #f6b93b;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  border: none;
+}
+
+.info {
+  color: #f8a5c2;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  border: none;
+}
+
+.mlintro {
+  color: #f8a5c2;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  border: none;
+}
